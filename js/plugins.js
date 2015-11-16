@@ -3,5 +3,8 @@
 var $plugins =
 [
 {"name":"SX_CraftBox","status":true,"description":"Supports for crafting items.","parameters":{}},
-{"name":"ItemBook","status":true,"description":"Displays detailed statuses of items.","parameters":{"Unknown Data":"??????","Price Text":"Price","Equip Text":"Equip","Type Text":"Type"}}
+{"name":"ItemBook","status":true,"description":"Displays detailed statuses of items.","parameters":{"Unknown Data":"??????","Price Text":"Price","Equip Text":"Equip","Type Text":"Type"}},
+{"name":"Yami_SkipTitle","status":true,"description":"Skip the title scene for testing purpose.","parameters":{}},
+{"name":"SX_QuestManager","status":true,"description":"用于管理任务的系统。","parameters":{"Quests in Progress":"进行中的任务","Quests Completed":"完成的任务"}},
+{"name":"YED_WordWrap","status":true,"description":"This plugin provides word wrap feature, so that a long text\nwill be properly broken down into lines.","parameters":{"Break Word":"true"}}
 ];

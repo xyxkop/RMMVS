@@ -25,7 +25,7 @@
  *
  * @help
  *
- * Plugin Command:
+ * 插件命令:
  *   CraftBox open            # 打开合成界面
  *   CraftBox add armor 1     # 将防具#1的合成公式加入合成书中
  *                            # 你需要将合成公式写入防具#1的备注里
